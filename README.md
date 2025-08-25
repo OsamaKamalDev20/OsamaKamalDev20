@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira%2BCode&weight=600&size=24&pause=1000&color=FF6F61&width=500&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Osama+Kamal;Flutter+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira%2BCode&weight=600&size=24&pause=1000&color=FF6F61&width=500&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Osama+Kamal;Flutter+Developer+from+Karachi%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
 </p>
 
 
@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning: Clean Architecture & Advanced Animations in Flutter
 - 📱 Open to: Freelance & full-time mobile development roles
-- 🛠 Tools I love: Flutter, Dart, Firebase, GetX, PHP, REST APIs
+- 🛠 Tools I love: Flutter, Dart, Firebase, GetX and Provider State Management, REST APIs
 - ✨ Fun fact: I use Hot Reload like a magic wand. ✨.
 
 # 🛠️ Tech Languages:
